@@ -1,0 +1,18 @@
+div
+{
+        height:  100px;
+        width: 100px;
+        background-color: rgb(79, 56, 100);
+        border:  1px dotted black;
+        margin: 20px;
+        padding: 10px ;
+}
+
+.light  
+{
+        background-color: white;
+}
+.dark
+{
+        background-color: black;
+}
